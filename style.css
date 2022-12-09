@@ -1,0 +1,16 @@
+#app{
+    background-color: aqua;
+}
+.line{
+    height:6px;
+    background-color: black;
+    width: 70px;
+    margin:8px auto;
+}
+#game{
+    background-color: blueviolet;
+}
+img{
+    height: 500px;
+    width: 1000px;
+}
